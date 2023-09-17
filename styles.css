@@ -1,2 +1,13 @@
+table,th,tr,td{
+	border:2px solid black;
+}
+/* .center{
+	text-align:center;
+	color:rgb(255,255,255);
+	background-color:rgb(0,0,0);
+} */
 
+.margin{
+	margin:30px 0px 30px 0px;
+}
 /* Your CSS Code here. */
